@@ -3,7 +3,7 @@
     <div class="navbar bg-white w-4/5 m-auto p-5 mt-10 rounded-t-xl shadow-xl border-b-2 border-b-gray-400">
       <div class="flex-1">
         <div class="flex gap-5 items-center">
-          <div><img src="../public/img/image 4.png" alt="" /></div>
+          <div><img src="../public/img/logo.png" alt="" /></div>
           <div>
             <div class="text-2xl font-semibold">VUE SNEAKERS</div>
             <div class="text-lg text-gray-400">Магазин лучших кроссовок</div>
